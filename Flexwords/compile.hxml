@@ -1,0 +1,5 @@
+#build file
+-swf Lambdabyexample.swf
+-swf-version 9
+-main Lambdabyexample
+-swf-header 500:400:30:FFe351
