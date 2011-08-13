@@ -1,5 +1,5 @@
 #build file
--cp ..\Point
+-cp ..\tmp
 -swf Flexwords.swf
 -swf-version 9
 -main Flexwords

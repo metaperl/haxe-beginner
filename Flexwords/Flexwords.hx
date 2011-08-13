@@ -1,4 +1,4 @@
-// author: JLM at Justinfront
+
 // modification of http://haxe.org/byexample/lambda/flash9/map
 import flash.display.MovieClip;
 import flash.display.Sprite;
