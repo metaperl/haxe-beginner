@@ -1,5 +1,7 @@
 #build file
--swf Lambdabyexample.swf
+-cp ..\Point
+-swf Flexwords.swf
 -swf-version 9
--main Lambdabyexample
+-main Flexwords
 -swf-header 500:400:30:FFe351
+0
